@@ -3,10 +3,10 @@ Siemens + LG LSIS + Damocles + ElNet automation project
 
 This project was made by me for some great asian island resort. The project includes:
 - Automation of all villas' pumping systems (using S7-1200, Logo! & XGB PLCs):
-  - SPA mode (for swimming pool);
-  - Swimming pool filtration;
-  - Water cirlucation;
-  - Air compressor.
+  - spa mode (for swimming pool);
+  - swimming pool filtration;
+  - water circulation;
+  - air compressor.
 - Buildings' water consumption control (S7-1200, Logo!, XGB);
 - Automation of some villas' Auto Lifting Stations (ALS);
 - Integration with existing Power energy quality meters (ElNet + KRUG OPC);
