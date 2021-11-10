@@ -21,3 +21,5 @@ This project was made by me for some great asian island resort. The project incl
   - emails (Blat Mailer);
   - auto printing daily reports;
   - data logging.
+
+Made by Nikita Baranov (nikita.baranov.devops@gmail.com)
