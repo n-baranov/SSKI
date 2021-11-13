@@ -1,5 +1,5 @@
 # SSKI
-Siemens + LG LSIS + Damocles + ElNet automation project
+Siemens + LG LSIS + Damocles + ElNet automation project.
 
 This project was made by me for one great asian island resort. The project includes:
 - Automation of all villas' pumping systems (using S7-1200, Logo! & XGB PLCs):
