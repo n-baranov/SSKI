@@ -11,7 +11,7 @@ This project was made by me for one great asian island resort. The project inclu
 - Automation of some villas' Auto Lifting Stations (ALS);
 - Integration with existing Power energy quality meters ([ElNet](http://www.elnet.cc/) + [KRUG OPC](https://www.krug2000.ru/));
 - Integration with existing ALSs ([Damocles](https://www.hw-group.com/) + [Matrikon OPC](https://www.matrikonopc.com/));
-- Integration with existing Reverse Osmosis system (LG LSIS + OPCTechs OPC);
+- Integration with existing Reverse Osmosis system ([LG LSIS](https://www.ls-electric.com/) + [OPCTechs OPC](https://www.opctechs.com/));
 - HMI Runtime project (WinCC RT Professional) for Buildings Management System (BMS) Server which includes:
   - visual screens;
   - trends;
