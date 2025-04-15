@@ -20,6 +20,4 @@ This project was made by me for one great asian island resort. The project inclu
   - data analysis (C, VB scripts);
   - emails ([Blat Mailer](https://www.blat.net/));
   - auto printing daily reports;
-  - data logging.
-
-Made by Nikita Baranov (nikita.baranov.devops@gmail.com)
+  - data logging
